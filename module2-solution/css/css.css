@@ -1,0 +1,47 @@
+/*Basic Style*/
+h1{
+	font-family:Garamond;
+	text-align: center;
+}
+
+h2 {
+	font-family: Garamond;
+}
+
+#chicken-title{
+	background-color: #D59898;
+	border: 2px solid black;
+}
+
+#beef-title{
+	background-color: #C14543;
+	color: white;
+	border: 2px solid black;
+}
+
+#sushi-title{
+	background-color: #E5D198;
+	border: 2px solid black;
+}
+
+p{
+	font-family: Garamond;
+	background-color: grey;
+	border: 2px solid black;
+}
+
+/*Responsive Box Style*/
+/*Desktop Version*/
+@media (min-width: 992px){
+
+}
+
+/*Tablet Version*/
+@media(min-width: 768px) and (max-width: 991px){
+
+}
+
+/*Mobile Version*/
+@media(max-width: 767px){
+
+}
